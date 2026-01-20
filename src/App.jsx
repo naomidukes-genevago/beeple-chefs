@@ -227,6 +227,85 @@ const App = () => {
         "Melt 40 g butter in the mushroom pan. Stir in the flour and cook briefly. Deglaze with the strained chicken stock and sauce from the chicken. Add the meatballs, mushrooms, and shredded chicken. Let simmer on low heat.",
         "Stir in the cream and keep warm. Season to taste.", "Fry the croquettes, and when ready, serve it all!"
       ]
+    },
+    {
+      id: 15,
+      title: "Tortilla de Patatas",
+      author: "Arnaud Charvin",
+      category: "Mains",
+      description: "Traditionally, this dish is thick, rich, and a bit dense — but I wanted to make a version that “breathes”, with a soft, soufflé-like texture. The secret? Whipping the egg whites before mixing them in. And I have to say… thanks to my wife and her grandmother, who taught me all the secrets of a perfect tortilla, I've now become a bit of a tortilla master myself! ",
+      image: "https://images.unsplash.com/photo-1639669794539-952631b44515?q=80&w=1521&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      ingredients: [
+        "6 medium potatoes", "1 large onion (optional but highly recommended)", "6 eggs (separate yolks and whites)", "Olive oil (plenty!)", "Salt and pepper"
+      ],
+      instructions: [
+        "Peel and thinly slice the potatoes. Finely chop or slice the onion.",
+        "In a large pan, heat a generous amount of olive oil over medium heat and slowly cook the potatoes and onions until tender (about 20 minutes). They should be soft but not crispy.",
+        "Once cooked, transfer the potatoes and onions to a sieve to drain excess oil. Keep a bit of that delicious oil for later. Let them cool for a few minutes.",
+        "In a large bowl, whisk the egg yolks with salt, pepper, and (optional) smoked paprika.",
+        "In another bowl, beat the egg whites until soft peaks form. This is what will make the tortilla airy and “breathing.”",
+        "Fold the potatoes and onions into the yolk mixture, then carefully fold in the whipped whites with a spatula — don’t overmix!",
+        "Heat a bit of the reserved olive oil in a non-stick pan over medium heat.",
+        "Pour in the mixture and cook for about 5-7 minutes until the bottom is golden and the center starts to set.",
+        " Place a large plate on top, flip the tortilla carefully, and cook the other side for another 4-5 minutes.", "Let it rest for a few minutes before slicing. The inside should be moist, fluffy, and full of air bubbles."
+      ]
+    },
+    {
+      id: 16,
+      title: "Mini Apple Puff Pastry Treats",
+      author: "Britt Bierque",
+      category: "Desserts",
+      description: "My original plan was to make a Tikka Masala as a Beeple chef, but yesterday afternoon I got inspired by a friend of mine!",
+      image: "https://plus.unsplash.com/premium_photo-1694425773033-56018d5258a4?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      ingredients: [
+        "1 sheet of puff pastry", "2-3 apples, chopped into small cubes", "Sugar to taste (I used crystal sugar or kinnekessuiker/cassonade)", "Cinnamon powder", "1 egg yolk", "Butter or olive oil (for baking)"
+      ],
+      instructions: [
+        "In a pan with a little bit of olive oil or butter, sauté the cubed apples.",
+        "Add cinnamon and sugar to taste. Let cool slightly",
+        "Roll out the puff pastry.",
+        "Cut out shapes — Halloween-themed if you like! (I used a cup and knife).",
+        "Place a spoonful of apple mix on half the shapes, then cover with matching top shapes.",
+        "Seal edges gently with a fork and brush tops with egg yolk.",
+        "Bake in a preheated oven at 220°C for +/-10 minutes. Enjoy it cool or warm. Add a little ice cream or whipped cream as a bonus!"
+      ]
+    },
+    {
+      id: 17,
+      title: "The Pie That Stole My Heart",
+      author: "Oleksii Maniatchenko",
+      category: "Desserts",
+      description: "A delicious, golden love story filled with cozy flavours and sweet nostalgia. One bite of this pie and you'll understand how it completely stole my heart.",
+      image: "https://images.unsplash.com/photo-1598113344213-a7e0f4e4cdf2?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      ingredients: [
+        "8-9 plums (you can use lingonberry or raspberries, 100g)", "3 eggs", "1 banana", "1-2 pears (fresh or baked)", "200g pumpkin (fresh or baked)", "Spices: cinnamon, ginger, nutmeg or masala", "3 tsp tahini (optional)", "1 orange", "1-2 apples, cut into the prepared dough", "A handful of walnuts roasted in a pan", "1/2 teaspoon of baking soda", "1/4 teaspoon of salt", "4-6 dates, pour boiling water over them for 5 minutes", "Any wholemeal flour (I used almond flour + green buckwheat flour, you can add ground flaxseed, sesame seeds, brown rice flour)", "2 tsp ghee butter"
+      ],
+      instructions: [
+        "Zest the orange and squeeze the juice, add baking soda to the juice and blend all the ingredients (except flour and butter) in a blender.",
+        "Pour the mixture into a bowl and mix with a bit of flour, add the melted ghee butter. Add more flour until the mixture reaches the consistency of thick sour cream. Pour into a baking tin lined with parchment paper greased with ghee butter.",
+        "Top with plums, cut in half, or sprinkle generously with cranberries or raspberries.",
+        "Bake at 180 degrees for 40-60 minutes.",
+        "A rainbow of flavors is guaranteed!"
+      ]
+    },
+    {
+      id: 18,
+      title: "Potato Croque",
+      author: "Arnaud Verbeck",
+      category: "Mains",
+      description: "The Symphony of the Potato & The Architecture of the Croque. Today, I didn't just \"cook dinner\". I embarked on a spiritual journey into the heart of the carbohydrates. We are talking about the Holy Trinity of comfort food: The artisanal fry, the structurally perfect Croque, and the Sauce of improvisation. This is not fast food. This is slow art.",
+      image: "https://images.unsplash.com/photo-1687573976446-6b3dcaeacae4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      ingredients: [
+        "It started with the raw material. I didn't go to the supermarket to buy a bag of frozen, soulless sticks. No. I went to a local farmer. I looked these potatoes in the eyes. They were covered in honest mud. They had character.", "Oil for frying", "A pot of boiling water", "Spreadable butter", "Sliced bread", "Sliced good cheese", "Sliced ham", "1 shallot", "Mayonnaise", "Fresh salad"
+      ],
+      instructions: [
+        "I hand-peeled the potatoes with the precision of a diamond cutter. Then, I sliced them. Not too thick, not too thin. Uniformity is key, but the slight imperfections remind us that a human hand was at work here. I rinsed them under cold water to wash away the excess starch—because nobody likes a sticky fry.",
+        "Here is where the average chef stops, but a Beeple Chef begins. Blanching. I plunged the raw fries into boiling water. But I didn't just walk away. Oh no. I stood there with my pyrometer like a scientist in a nuclear lab. I waited for the temperature to drop and climb back to exactly 90°C. And then? I held the line. For 10 glorious minutes, I played with the stove dial, micromanaging the flame to keep that water exactly at 90 degrees. Not 89. Not 91. It was a high-stakes game of thermal chicken. This pre-cook ensures the inside is fluffy while the outside prepares for crunch.",
+        "After letting the fries rest and cool for 30 minutes (patience is an ingredient!), it was time for the fryer. First Bath: 150°C for 5 minutes. This isn't about color yet; it's about structure. Then, another 30-minute rest. I let them cool down on paper towels, draining the excess fat, letting them contemplate their destiny. The Grand Finale: I cranked the heat to 180°C. I dropped them in one last time. I waited for that specific sound—you know the one. Not a sizzle, but a crisp 'TSSS' whisper that says, 'I am ready.' Golden. Crispy. Perfection.",
+        "While the potatoes were resting, I turned my attention to the Croque. This is not just a grilled cheese; it is an architectural marvel. The Rules of Engagement: The Butter: I used spreadable butter on the outside of the bread. Just enough to coat, not enough to drown. And listen closely: NO BAKING BUTTER! We are civilized people. The Coverage: I sliced the cheese and ham with surgical precision. I laid the cheese down so that every single millimeter of bread was covered. No dry corners allowed. The Assembly: Cheese. Ham. Cheese. A double-layer containment strategy to ensure the ham is hugged by molten goodness on both sides. I grilled them until the outside was lightly crispy and the inside was a molten core of lava-like joy.",
+        "Panic set in. I opened the fridge: No garlic sauce. A tragedy? No. An opportunity. I took a fresh shallot, minced it into oblivion, and folded it into high-quality mayonnaise. The result? A fresh, biting \"Ui-Mayonaise\" that honestly tastes better than anything out of a bottle.\nThe Result? Picture this: A plate piled high with golden, twice-fried potatoes, a crispy, melting Croque, a side of fresh lettuce (Veldsla) for health, and that homemade shallot-mayo. The Result? Picture this: A plate piled high with golden, twice-fried potatoes, a crispy, melting Croque, a side of fresh lettuce (Veldsla) for health, and that homemade shallot-mayo.",
+        "Bon appétit, Beeple Chefs. The bar has been raised."
+      ]
     }
   ]);
 
